@@ -1,7 +1,6 @@
 ![trip-ease](https://socialify.git.ci/legistech/trip-ease/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
-# TripEase
-TripEase: A Flutter ride-sharing app, redefining transportation with real-time tracking and secure payments. Join our open-source community!
+A Flutter ride-sharing app, redefining transportation with real-time tracking and secure payments. Join our open-source community!
 
 # Screenshots
 
